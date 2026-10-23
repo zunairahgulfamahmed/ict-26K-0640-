@@ -1,0 +1,50 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color:  rgb(222, 212, 223);
+    color: #2d1c13;
+    text-align: center;
+}
+
+header {
+    background-color:  rgb(222, 212, 223);
+    text-align: center;
+    padding: 25px;
+    color: #2d1c13;
+}
+
+.section{
+    background-color:  rgb(222, 212, 223);
+    text-align: center;
+    padding: 25px;
+    color: #2d1c13;
+    text-align: center;
+}
+
+.products{
+    background-color:  rgb(222, 212, 223);
+    text-align: center;
+    padding: 25px;
+    color: #2d1c13;
+    text-align: center;
+}
+
+.intro{
+    background-color:  rgb(222, 212, 223);
+    text-align: center;
+    padding: 25px;
+    color: #2d1c13;
+    text-align: center;
+}
+
+header h1 {
+    font-family: Georgia, serif;
+    letter-spacing: 3px;
+}
+
+nav {
+    background-color: rgb(222, 212, 223);
+    text-align: center;
+    color: #2d1c13;
+    padding: 15px;
+}
